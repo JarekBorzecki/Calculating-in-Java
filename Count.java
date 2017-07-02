@@ -1,5 +1,4 @@
 package Practice_2;
-import java.text.DecimalFormat;
 
 /**
  * Created by jarek on 02.07.2017.
